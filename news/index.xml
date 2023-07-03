@@ -6,7 +6,18 @@
     <description>Recent content in News on IID Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Javid Dadashkarimi Graduated</title>
+      <link>/news/javid-2023.md/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/javid-2023.md/</guid>
+      <description>Chris Harshaw Graduated with his PhD thesis entitled “Data Driven Mapping between Functional Connectome Using Optimal Trasnport”.
+Adviserr: Dustin Scheinost and Amin Karbasi
+Abstract:</description>
+    </item>
+    
     <item>
       <title>Qinghao Liang won Best Paper award at Graphs in Biomedical Imaging</title>
       <link>/news/grail-2022.md/</link>
