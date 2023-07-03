@@ -6,7 +6,17 @@
     <description>Recent content in Courses on IID Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Processes</title>
+      <link>/courses/stochastic23.md/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/courses/stochastic23.md/</guid>
+      <description>Course ID: S&amp;amp;DS 351, MATH 251, S&amp;amp;DS 551, ENAS 502 In this course we will go through the following topics:
+Review important notions of probability Expectation Convergence of random variables Law of large numbers Poisson Processes Renewal Processes Markov Chains and Random Walks Martingales If time permits, we will look at a few interesting applications of the above topics. Textbook: We mainly use &amp;ldquo;Introduction to Stochastic Processes&amp;rdquo; by Erhan Cinlar</description>
+    </item>
+    
     <item>
       <title>Stochastic Processes</title>
       <link>/courses/stochastic.md/</link>
