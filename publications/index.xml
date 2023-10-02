@@ -1034,6 +1034,15 @@
     </item>
     
     <item>
+      <title>Replicability in Reinforcement Learning</title>
+      <link>/publications/2023/neurips1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2023/neurips1/</guid>
+      <description>Abstract We initiate the mathematical study of replicability as an algorithmic property in the context of reinforcement learning (RL). We focus on the fundamental setting of discounted tabular MDPs with access to a generative model. Inspired by Impagliazzo et al. [2022], we say that an RL algorithm is replicable if, with high probability, it outputs the exact same policy after two executions on i.i.d. samples drawn from the generator when its internal randomness is the same.</description>
+    </item>
+    
+    <item>
       <title>How Do You Want Your Greedy: Simultaneous or Repeated?</title>
       <link>/publications/2023/jmlr-2023/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
