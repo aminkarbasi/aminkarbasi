@@ -6,7 +6,7 @@
     <description>Recent content in Publications on IID Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cross Atlas Remapping via Optimal Transport (CAROT): Creating connectomes for different atlases when raw data is not available</title>
       <link>/publications/2023/media/</link>
@@ -104,6 +104,15 @@
       
       <guid>/publications/2009/hormati-09a/</guid>
       <description>Abstract Compressed sensing deals with the reconstruction of sparse signals using a small number of linear measurements. One of the main challenges in compressed sensing is to find the support of a sparse signal. In the literature, several bounds on the scaling law of the number of measurements for successful support recovery have been derived where the main focus is on random Gaussian measurement matrices. In this paper, we investigate the noisy support recovery problem from an estimation theoretic point of view, where no specific assumption is made on the underlying measurement matrix.</description>
+    </item>
+    
+    <item>
+      <title>Replicability in Reinforcement Learning</title>
+      <link>/publications/2023/neurips1/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2023/neurips1/</guid>
+      <description>Abstract We initiate the mathematical study of replicability as an algorithmic property in the context of reinforcement learning (RL). We focus on the fundamental setting of discounted tabular MDPs with access to a generative model. Inspired by Impagliazzo et al. [2022], we say that an RL algorithm is replicable if, with high probability, it outputs the exact same policy after two executions on i.i.d. samples drawn from the generator when its internal randomness is the same.</description>
     </item>
     
     <item>

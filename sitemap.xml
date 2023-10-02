@@ -41,6 +41,9 @@
     <loc>/publications/2009/hormati-09a/</loc>
     <lastmod>2009-01-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publications/2023/neurips1/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publications/2023/icml-1/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -435,16 +438,16 @@
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/javid-2023.md/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/news/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
