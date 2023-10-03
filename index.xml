@@ -125,6 +125,15 @@
     </item>
     
     <item>
+      <title>Optimal Guarantees for Algorithmic Reproducibility and Gradient Complexity in Convex Optimization</title>
+      <link>/publications/2023/neurips3/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2023/neurips3/</guid>
+      <description>Abstract Algorithmic reproducibility measures the deviation in outputs of machine learning algorithms upon minor changes in the training process. Previous work suggests that first-order methods would need to trade-off convergence rate (gradient complexity) for better reproducibility. In this work, we challenge this perception and demonstrate that both optimal reproducibility and near-optimal convergence guarantees can be achieved for smooth convex minimization and smooth convex-concave minimax problems under various error-prone oracle settings.</description>
+    </item>
+    
+    <item>
       <title>Replicability in Reinforcement Learning</title>
       <link>/publications/2023/neurips1/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
