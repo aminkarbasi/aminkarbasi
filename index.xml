@@ -134,6 +134,16 @@
     </item>
     
     <item>
+      <title>Optimal Learners for Realizable Regression:PAC Learning and Online Learning</title>
+      <link>/publications/2023/neurips4/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2023/neurips4/</guid>
+      <description>Abstract In this work, we aim to characterize the statistical complexity of realizable regression both in the PAC learning setting and the online learning setting.
+Previous work had established the sufficiency of finiteness of the fat shattering dimension for PAC learnability and the necessity of finiteness of the scaled Natarajan dimension, but little progress had been made towards a more complete characterization since the work of Simon (SICOMP &amp;lsquo;97). To this end, we first introduce a minimax instance optimal learner for realizable regression and propose a novel dimension that both qualitatively and quantitatively characterizes which classes of real-valued predictors are learnable.</description>
+    </item>
+    
+    <item>
       <title>Replicability in Reinforcement Learning</title>
       <link>/publications/2023/neurips1/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
