@@ -116,6 +116,15 @@
     </item>
     
     <item>
+      <title>Replicable Clustering</title>
+      <link>/publications/2023/neurips2/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2023/neurips2/</guid>
+      <description>Abstract We design replicable algorithms in the context of statistical clustering under the recently introduced notion of replicability from Impagliazzo et al. [2022]. According to this definition, a clustering algorithm is replicable if, with high probability, its output induces the exact same partition of the sample space after two executions on different inputs drawn from the same distribution, when its internal randomness is shared across the executions. We propose such algorithms for the statistical k-medians, statistical k-means, and statistical k-centers problems by utilizing approximation routines for their combinatorial counterparts in a black-box manner.</description>
+    </item>
+    
+    <item>
       <title>Accelerating Transformers via Kernel Density Estimation</title>
       <link>/publications/2023/icml-1/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
