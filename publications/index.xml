@@ -207,6 +207,15 @@ Previous work had established the sufficiency of finiteness of the fat shatterin
     </item>
     
     <item>
+      <title>Submodular Maximization in Clean Linear Time</title>
+      <link>/publications/2022/grail-2022-copy/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/2022/grail-2022-copy/</guid>
+      <description>Abstract Brain connectomes—the structural or functional connections between distinct brain regions—are widely used for neuroimaging studies. However, different ways of brain parcellation are proposed and used by different research groups without any consensus of their superiority. The variety of choices in brain parcellation makes data sharing and result comparison between studies difficult. Here, we propose a framework for transforming connectomes from one parcellation to another to address this problem. The optimal transport between nodes of two parcellations is learned in a data-driven way using graph matching methods.</description>
+    </item>
+    
+    <item>
       <title>Black-Box Generalization</title>
       <link>/publications/2022/neurips-4/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
